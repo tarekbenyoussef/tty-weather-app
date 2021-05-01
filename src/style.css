@@ -1,6 +1,11 @@
 body {
-    font-family: arial, sans-serif;
-    margin: auto;
+    background-image: linear-gradient(
+    to top,
+    #fdcbf1 0%,
+    #fdcbf1 1%,
+    #e6dee9 100%
+  );
+  padding: 0 20px;
 }
 h1 {
     color: #fdcbf1;
@@ -32,7 +37,7 @@ h1 {
   
   .weather-app-wrapper {
     max-width: 600px;
-    margin: 30px auto;
+    margin: 30px 30px;
   }
   .weather-app {
     padding: 20px;
