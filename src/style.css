@@ -1,10 +1,5 @@
 body {
-    background-image: linear-gradient(
-    to top,
-    #fdcbf1 0%,
-    #fdcbf1 1%,
-    #e6dee9 100%
-  );
+    font-family: arial, sans-serif;
   padding: 0 20px;
 }
 h1 {
